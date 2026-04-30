@@ -1,0 +1,33 @@
+# NetBeans
+build/
+dist/
+nbproject/private/
+.netbeans_automatic_build
+.netbeans_update_resources
+
+# Compiled Java files
+*.class
+*.o
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.jar
+*.ear
+*.zip
+
+# Test results
+test-results/
+*.log
+
+# Temporary files
+*.tmp
